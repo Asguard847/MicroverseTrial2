@@ -7,5 +7,6 @@
 #img-div{
 
     width: 300px;
-    margin: auto 50vw auto 50vw;
+    align-items: center;
+    justify-content: center;
 }
